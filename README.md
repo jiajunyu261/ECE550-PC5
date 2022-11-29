@@ -1,11 +1,6 @@
 ## ECE550 Checkpoint 5 - Full Processor
 
-**Jiajun Yu (jy261)**
-
-**Runya Liu (rl235)**
-
-**Ruizi Han (rh328)**
-
+**Ruizi Han (rh328)**, **Runya Liu (rl235)**, **Jiajun Yu (jy261)**
 
 - The processor is made by a PC block and ALU. 
 Normally, the PC block is added by 1 for each instruction. According to different instruction, PC will jump to different instruction.
